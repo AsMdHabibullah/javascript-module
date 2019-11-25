@@ -19,16 +19,16 @@
     EchmaScript 10 ---> 2019
 
 ## JavaScript Node module setup
-
+### For convert ES6 code to ES5 
 ```
-    1. Install babel-core
-    2. Install babel-preset-env
-    3. Install bable-loader
-    4. Install webpack
-    5. Install webpack-cli
+    1. Install webpack
+    2. Install webpack-cli
+    3. Install babel-core
+    4. Install babel-preset-env
+    5. Install bable-loader
 ```
 
-## EchmaScript Modules-->
+## EcmaScript Modules
 ### We must need to know all of the modules.
 ```
     *ES 2015
