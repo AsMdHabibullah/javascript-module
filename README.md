@@ -1,4 +1,4 @@
-# A little review about JavaScript.
+# JavaScript at a glance.
 
 ## History
     Mocha ---> 1995
