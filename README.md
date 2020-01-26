@@ -65,7 +65,7 @@
             *then
             *catch
 ```
-
+--------------------------------------------
 ### Finally you need to learn design-pattern
 
 # Good luck for next-gen programming
